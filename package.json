@@ -1,0 +1,10 @@
+{
+  "name": "callback-promises-pre",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Tom Nagle",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.24.0"
+  }
+}
